@@ -23,7 +23,9 @@
   
 <br>
  
-### Pra conteúdo que ja criei ou estou criando sobre programação me segue a gente nas redes abaixo!
+## Sobre Mim:
+
+### Sou um jovem entusiasta da programação, atualmente cursando Engenharia de Software e participando do programa de Programação FullStack da DevQuest. Estou constantemente em busca de novos conhecimentos para aprimorar minhas habilidades e ingressar no mercado de tecnologia. Meu objetivo é desenvolver soluções ágeis e eficientes que possam resolver os problemas enfrentados pelas empresas. !
  
 <div> 
   <a href="https://www.youtube.com/@julianoJPA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
