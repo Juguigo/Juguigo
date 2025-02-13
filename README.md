@@ -4,6 +4,7 @@
    <a href="https://github.com/Juguigo
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juguigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juguigo&layout=compact&langs_count=6&theme=tokyonight"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juguigo&theme=dark&show_icons=true)
 </div>
     
 <div style="display: inline_block"><br>
