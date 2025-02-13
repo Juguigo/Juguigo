@@ -6,6 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juguigo&layout=compact&langs_count=6&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juguigo&show_icons=true&theme=chartreuse-dark"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats"/>
    
  
 </div>
