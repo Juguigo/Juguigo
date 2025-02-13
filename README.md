@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juguigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juguigo&layout=compact&langs_count=6&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juguigo&show_icons=true&theme=chartreuse-dark"/>
-   <img align="center" alt="Ju-Java" height="180" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   <img alt="Ju-Java" height="180" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    
  
 </div>
