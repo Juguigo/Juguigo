@@ -1,4 +1,5 @@
-# Bem-vindo(a) ao perfil do Juguigo 😁
+# Bem-vindo(a) ao perfil do Juguigo 🚀🚀🚀![Uploading DévAlteraLifeGIF.gif…]()
+
 
  <div>
    <a href="https://github.com/Juguigo
@@ -23,7 +24,7 @@
   
 <br>
  
-## 'Sobre Mim':
+## Sobre Mim:
 
 
 
