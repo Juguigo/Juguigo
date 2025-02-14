@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do Juguigo 🚀🚀🚀![Uploading DévAlteraLifeGIF.gif…]()
+# Bem-vindo(a) ao perfil do Juguigo 🚀🚀🚀
 
 
  <div>
