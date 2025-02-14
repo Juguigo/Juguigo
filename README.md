@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Juguigo 😁
+# Bem-vindo(a) ao perfil do Juguigo 😁
 
  <div>
    <a href="https://github.com/Juguigo
@@ -23,7 +23,7 @@
   
 <br>
  
-## Sobre Mim:
+# Sobre Mim:
 
 ### Sou um jovem entusiasta da programação, atualmente cursando Engenharia de Software e participando do programa de Programação FullStack da DevQuest. Estou constantemente em busca de novos conhecimentos para aprimorar minhas habilidades e ingressar no mercado de tecnologia. Meu objetivo é desenvolver soluções ágeis e eficientes que possam resolver os problemas enfrentados pelas empresas.!
 
